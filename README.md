@@ -1,1 +1,1 @@
-Tribute to Gordon Ramsay
+Tribute Page to Gordon Ramsay
