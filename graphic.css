@@ -1,0 +1,28 @@
+p{ text-align: center;
+}
+
+h2{ text-align: center;
+}
+
+h1{ text-align: center;
+}
+
+body {
+    background-color: cyan;
+}
+
+.content{
+    height: 840px;
+}
+
+.colored{
+    background-color: midnightblue;
+}
+
+img{
+    height: 400px;
+}
+
+.pic {
+    margin-left: 470px;
+}
